@@ -1,4 +1,4 @@
-# Projeto Landing page Tesla
+# Projeto Landing Page Tesla
 
 Esse projeto é uma landing page do site Testa feito por mim para aplicar alguns conhecimentos de Html e Css. 🚀
 
